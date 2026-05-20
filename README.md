@@ -1,5 +1,6 @@
 # Data-Cleaning-with-SQL
-Learnt how to clean and transform chaotic datasets into analysis-ready using SQL! 
+Learnt how to clean and transform chaotic datasets into analysis-ready using SQL.
+
 I learnt 
 
 ✅ Step 1: Identify and remove duplicates to avoid skewed analysis.
